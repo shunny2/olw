@@ -32,7 +32,7 @@ First, start by cloning the repository:
 git clone https://github.com/shunny2/olw
 ```
 
-Build the project images and get the containers running:
+Enter the project root directory and create the project images and run the containers:
 ```bash
 sail up -d
 ```
