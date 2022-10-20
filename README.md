@@ -21,6 +21,7 @@ Project to help beer lovers find the best solution when drinking with side dishe
   - [Redis](https://redis.io/)
   - [Minio](https://min.io/)
   - [MailHog](https://github.com/mailhog/MailHog)
+  - [InertiaJS](https://inertiajs.com/)
   - [VueJS](https://vuejs.org/)
   - [Tailwindcss](https://tailwindcss.com/)
   - [AWS](https://aws.amazon.com/s3/?nc1=h_ls)
