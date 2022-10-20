@@ -25,6 +25,7 @@ Project to help beer lovers find the best solution when drinking with side dishe
   - [VueJS](https://vuejs.org/)
   - [Tailwindcss](https://tailwindcss.com/)
   - [AWS](https://aws.amazon.com/s3/?nc1=h_ls)
+  - [Terraform](https://www.terraform.io/)
   
 ## How to run
 
