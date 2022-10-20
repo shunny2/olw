@@ -37,6 +37,11 @@ Build the project images and get the containers running:
 sail up -d
 ```
 
+Install project dependencies:
+```bash
+sail composer install
+```
+
 Now, run the creation of migrations and seeders:
 ```bash
 sail art migrate --seed
