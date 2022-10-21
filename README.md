@@ -3,14 +3,20 @@
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#technologies">Technologies</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#routes">Routes</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#how-to-run">How to run</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#project-status">Project Status</a>
 </p>
 
+</br>
+
+![olw-gif](https://user-images.githubusercontent.com/72872854/197296367-ce5f61fb-48d1-4145-977a-b928f7a45cf2.gif)
+
 ## About Application
 
-Project to help beer lovers find the best solution when drinking with side dishes. The project was created at the Open Laravel Week event by Beer and Code.
+Project to help beer lovers find the best solution when drinking with side dishes. The [PUNK API](https://punkapi.com/) was used to capture information about the beer catalog. The project was created at the Open Laravel Week event by Beer and Code.
 
 ## Technologies
 
@@ -58,6 +64,17 @@ Now, run the creation of migrations and seeders:
 ```bash
 sail art migrate --seed
 ```
+
+## Routes
+
+  Below are the accessible routes of the application:
+  
+  - [Welcome](http://localhost)
+  - [Login](http://localhost/login)
+  - [Register](http://localhost/register)
+  - [Beers](http://localhost/beers)
+  - [Reports](http://localhost/beers/reports)
+
 
 ## Project Status
 
