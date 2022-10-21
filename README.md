@@ -34,6 +34,16 @@ First, start by cloning the repository:
 git clone https://github.com/shunny2/olw
 ```
 
+After cloning the repository, you will need to install a container containing PHP and Compose to install the dependencies. Then go to the project root directory and run:
+```bash
+docker run --rm \
+    -u "$(id -u):$(id -g)" \
+    -v $(pwd):/var/www/html \
+    -w /var/www/html \
+    laravelsail/php81-composer:latest \
+    composer install --ignore-platform-reqs
+```
+
 Enter the project root directory and create the project images and run the containers:
 ```bash
 sail up -d
