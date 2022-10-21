@@ -14,6 +14,12 @@
 
 ![olw-gif](https://user-images.githubusercontent.com/72872854/197296367-ce5f61fb-48d1-4145-977a-b928f7a45cf2.gif)
 
+<p align="center">
+<a href="https://img.shields.io/github/followers/shunny2?style=social"><img src="https://img.shields.io/github/followers/shunny2?style=social" alt="Followers"/></a>
+<a href="https://img.shields.io/github/stars/shunny2/olw?style=social"><img src="https://img.shields.io/github/stars/shunny2/olw?style=social" alt="Repo Stars"/></a>
+<a href="https://img.shields.io/github/license/shunny2/olw"><img src="https://img.shields.io/github/license/shunny2/olw" alt="License"/></a>
+</p>
+
 ## About Application
 
 Project to help beer lovers find the best solution when drinking with side dishes. The [PUNK API](https://punkapi.com/) was used to capture information about the beer catalog. The project was created at the Open Laravel Week event by Beer and Code.
