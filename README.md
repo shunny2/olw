@@ -1,13 +1,15 @@
 <p align="center">
-<a href="#about-application">About Application</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#technologies">Technologies</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#routes">Routes</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#how-to-run">How to run</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#project-status">Project Status</a>
+    <a href="#about-application">About Application</a>
+    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#technologies">Technologies</a>
+    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#routes">Routes</a>
+    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#how-to-run">How to run</a>
+    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#project-status">Project Status</a>
+    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#license">License</a>
 </p>
 
 </br>
@@ -15,9 +17,9 @@
 ![olw-gif](https://user-images.githubusercontent.com/72872854/197296367-ce5f61fb-48d1-4145-977a-b928f7a45cf2.gif)
 
 <p align="center">
-<a href="https://img.shields.io/github/followers/shunny2?style=social"><img src="https://img.shields.io/github/followers/shunny2?style=social" alt="Followers"/></a>
-<a href="https://img.shields.io/github/stars/shunny2/olw?style=social"><img src="https://img.shields.io/github/stars/shunny2/olw?style=social" alt="Repo Stars"/></a>
-<a href="https://img.shields.io/github/license/shunny2/olw"><img src="https://img.shields.io/github/license/shunny2/olw" alt="License"/></a>
+    <a href="https://img.shields.io/github/stars/shunny2/olw?style=social"><img src="https://img.shields.io/github/stars/shunny2/olw?style=social" alt="Repo Stars"/></a>
+    <a href="https://img.shields.io/github/forks/shunny2/olw?style=social"><img src="https://img.shields.io/github/forks/shunny2/olw?style=social" alt="Forks"/></a>
+    <a href="https://img.shields.io/github/license/shunny2/olw"><img src="https://img.shields.io/github/license/shunny2/olw" alt="License"/></a>
 </p>
 
 ## About Application
@@ -85,6 +87,10 @@ sail art migrate --seed
 ## Project Status
 
 > Status: Completed.
+
+## License
+
+This project is under an [MIT](https://opensource.org/licenses/MIT) license.
 
 <hr></hr>
 
