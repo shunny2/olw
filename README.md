@@ -19,7 +19,7 @@
 <p align="center">
     <a href="https://img.shields.io/github/stars/shunny2/olw?style=social"><img src="https://img.shields.io/github/stars/shunny2/olw?style=social" alt="Repo Stars"/></a>
     <a href="https://img.shields.io/github/forks/shunny2/olw?style=social"><img src="https://img.shields.io/github/forks/shunny2/olw?style=social" alt="Forks"/></a>
-    <a href="https://img.shields.io/github/license/shunny2/olw"><img src="https://img.shields.io/github/license/shunny2/olw" alt="License"/></a>
+    <a href="https://img.shields.io/github/license/shunny2/olw?style=social"><img src="https://img.shields.io/github/license/shunny2/olw?style=social" alt="License"/></a>
 </p>
 
 ## About Application
